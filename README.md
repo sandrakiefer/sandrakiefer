@@ -1,11 +1,9 @@
 <h1 align="left">Hi 👋, I'm Sandra</h1>
 <h3 align="left">A media computer science student from Germany near Frankfurt</h3>
 
-- 🔭 I’m currently working on **my bachelor thesis**
+- 📕 I recently wrote my bachelor thesis on **interactive personalizable dashboards**
 
-- 🌱 I’m currently learning **Voice Assistant Development (with Jovo) and improve my existing skills**
-
-- 🤝 Soon I would like **to start my master in computer science**
+- 🎓 Soon I will start my **master in computer science**
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
