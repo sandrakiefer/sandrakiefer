@@ -1,9 +1,8 @@
 <h1 align="left">Hi 👋, I'm Sandra</h1>
-<h3 align="left">A media computer science student from Germany near Frankfurt</h3>
+
+- 🎓 Currently I am doing my **master in computer science**
 
 - 📕 I recently wrote my bachelor thesis on **interactive personalizable dashboards**
-
-- 🎓 Soon I will start my **master in computer science**
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
