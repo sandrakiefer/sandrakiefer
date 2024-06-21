@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandra</h1>
 <p align="center">
-- 🎓 I am currently writing my master's thesis on analysing **cognitive workload in the AR environment with eye tracking**
+🎓 I am currently writing my master's thesis on analysing cognitive workload in the AR environment with eye tracking
 </p>
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
